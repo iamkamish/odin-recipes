@@ -19,3 +19,23 @@ The website will consist of a main index page which will have links to a few rec
 - Using Git and GitHub
 - Using Terminal
 - Using Visual Studio Code
+
+### Update October 7, 2026:
+I’m continuing the project by adding basic CSS to the pages.
+In the process, I’ve learned:
+- What the cascade does.
+- Specificity and combining CSS selectors.
+- How inheritance affects certain properties.
+- Chrome Dev Tools
+  - access the element inspector
+  - select and inspect specific elements
+  - test out HTML and CSS
+
+ - the box model
+ - -margin, padding, boarder
+ -  “Normal flow”
+ -  the difference between block and inline elements
+ - which elements default to block and which elements default to inline
+
+ - div and span
+
